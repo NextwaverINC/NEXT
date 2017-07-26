@@ -1,0 +1,12 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+B0001,A007,BRT, สถานีสาทร - สถานีราชพฤกษ์,,3,,FFFFFF,000000
+B0002,A005,CPX-B, ท่าเรือพระอาทิตย์ - ท่าเรือสาธร,,4,,000000,FFFFFF
+B0003,A005,CPX-G, ท่าเรือปากเกร็ด - ท่าเรือสาทร,,4,,000000,FFFFFF
+B0004,A005,CPX-O, ท่าเรือนนทบุรี - ท่าเรือวัดราชสิงขร,,4,,000000,FFFFFF
+B0005,A005,CPX-T, นนทบุรี - วัดราชสิงขร,,4,,000000,FFFFFF
+B0006,A005,CPX-Y, ท่าเรือนนทบุรี - ท่าเรือราษฎร์บูรณะ,,4,,000000,FFFFFF
+B0007,A008,SANSABนิด้า, ท่าเรือวัดศรีบุญเรือง - ท่าเรือประตูน้ำ,,4,,FFFFFF,FFFFFF
+B0008,A008,SANSABภูเขาทอง, ท่าเรือประตูน้ำ - ท่าเรือผ่านฟ้าลีลาศ,,4,,FFFFFF,FFFFFF
+B0009,A006,SRT-City, Airport link สุวรรณภูมิ - Airport link พญาไท,,1,,761f21,FFFFFF
+B0010,A006,SRT-MAS, Airport link สุวรรณภูมิ - Airport link มักกะสัน,,1,,761f21,FFFFFF
+B0011,A006,SRT-PTH, Airport link สุวรรณภูมิ - Airport link พญาไท,,1,,761f21,FFFFFF

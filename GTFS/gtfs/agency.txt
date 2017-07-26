@@ -1,0 +1,10 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+A004,รถตู้,http://www.where-in-thailand.com/transit,Asia/Bangkok,th
+A005,เรือด่วนเจ้าพระยา,http://www.chaophrayaexpressboat.com,Asia/Bangkok,th
+A006,SRT,http://www.srtet.co.th,Asia/Bangkok,th
+A007,BRT,http://www.where-in-thailand.com/transit,Asia/Bangkok,th
+A008,เรือโดยสารคลองแสนแสบ,http://www.where-in-thailand.com/transit,Asia/Bangkok,th
+A009,รถไฟ,http://www.railway.co.th,Asia/Bangkok,th
+A001,BTS,https://www.bts.co.th/customer/th/main.aspx,Asia/Bangkok,th
+A002,MRT,http://www.bemplc.co.th,Asia/Bangkok,th
+A003,ขสมก,http://www.bmta.co.th,Asia/Bangkok,th

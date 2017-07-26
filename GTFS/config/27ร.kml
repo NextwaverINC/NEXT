@@ -1,0 +1,3747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>27ร.kml</name>
+	
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>27ร</name>
+		
+		<Folder>
+			<name>INBOUND</name>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง อนุสาวรีย์ชัยสมรภูมิ</name>
+				
+				<LookAt>
+					<longitude>100.538009801958</longitude>
+					<latitude>13.7656566725758</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.538009801958,13.7656566725758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สนามเป้า</name>
+				
+				<LookAt>
+					<longitude>100.539636500572</longitude>
+					<latitude>13.7675034326543</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.539636500572,13.7675034326543,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง กรมทหารม้าที่ 3</name>
+				
+				<LookAt>
+					<longitude>100.540320731135</longitude>
+					<latitude>13.7687338494417</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.540320731135,13.7687338494417,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงพยาบาลพญาไท 2</name>
+				
+				<LookAt>
+					<longitude>100.540948928772</longitude>
+					<latitude>13.7699300267513</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.540948928772,13.7699300267513,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ช่อง 5</name>
+				
+				<LookAt>
+					<longitude>100.541419997144</longitude>
+					<latitude>13.7710397885168</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.541419997144,13.7710397885168,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สถานีรถไฟฟ้า BTS สนามเป้า</name>
+				
+				<LookAt>
+					<longitude>100.5420301899508</longitude>
+					<latitude>13.77256799671893</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5420301899508,13.77256799671893,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยอารีย์</name>
+				
+				<LookAt>
+					<longitude>100.542595221807</longitude>
+					<latitude>13.7743978679633</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.542595221807,13.7743978679633,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยราชครู</name>
+				
+				<LookAt>
+					<longitude>100.543529328498</longitude>
+					<latitude>13.7769489633366</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.543529328498,13.7769489633366,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สถานีรถไฟฟ้า BTS อารีย์</name>
+				
+				<LookAt>
+					<longitude>100.5445809791363</longitude>
+					<latitude>13.77955906018661</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5445809791363,13.77955906018661,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตึกไอบีเอ็ม</name>
+				
+				<LookAt>
+					<longitude>100.545119687747</longitude>
+					<latitude>13.7813719435285</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.545119687747,13.7813719435285,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยสายลม</name>
+				
+				<LookAt>
+					<longitude>100.545890509899</longitude>
+					<latitude>13.7835213628139</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.545890509899,13.7835213628139,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง เอ.ไอ.เอส.</name>
+				
+				<LookAt>
+					<longitude>100.5469870418558</longitude>
+					<latitude>13.78650073191369</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5469870418558,13.78650073191369,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามสถานีตำรวจบางซื่อ</name>
+				
+				<LookAt>
+					<longitude>100.547546703647</longitude>
+					<latitude>13.7880490180155</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.547546703647,13.7880490180155,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สะพานควาย</name>
+				
+				<LookAt>
+					<longitude>100.548306786707</longitude>
+					<latitude>13.7901704958384</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.548306786707,13.7901704958384,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง บิ๊กซีสะพานควาย</name>
+				
+				<LookAt>
+					<longitude>100.548692363263</longitude>
+					<latitude>13.7912348932072</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.548692363263,13.7912348932072,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงพยาบาลเปาโล</name>
+				
+				<LookAt>
+					<longitude>100.549164649863</longitude>
+					<latitude>13.7926138917892</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.549164649863,13.7926138917892,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สถานีรถไฟฟ้า BTS สะพานควาย</name>
+				
+				<LookAt>
+					<longitude>100.5497128046067</longitude>
+					<latitude>13.79388474955304</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5497128046067,13.79388474955304,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง วัดไผ่ตัน</name>
+				
+				<LookAt>
+					<longitude>100.550141490855</longitude>
+					<latitude>13.795222211329</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.550141490855,13.795222211329,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ธนาคารทหารไทย สนญ</name>
+				
+				<LookAt>
+					<longitude>100.556998813239</longitude>
+					<latitude>13.8085188249261</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.556998813239,13.8085188249261,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง MRT พหลโยธิน</name>
+				
+				<LookAt>
+					<longitude>100.560509353025</longitude>
+					<latitude>13.8147391662475</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.560509353025,13.8147391662475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง แยกลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.562831926653</longitude>
+					<latitude>13.8122294179442</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.562831926653,13.8122294179442,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามสงวนซาวต์ ออโต้แคร์</name>
+				
+				<LookAt>
+					<longitude>100.5651854160014</longitude>
+					<latitude>13.81087482955074</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5651854160014,13.81087482955074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ธนาคารไทยพาณิชย์ลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.566374585212</longitude>
+					<latitude>13.8102315403508</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.566374585212,13.8102315403508,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ห้างคาร์ฟูร์ลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.567688802029</longitude>
+					<latitude>13.8094822386699</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.567688802029,13.8094822386699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 20</name>
+				
+				<LookAt>
+					<longitude>100.570738308903</longitude>
+					<latitude>13.8077854233511</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.570738308903,13.8077854233511,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยลาดพร้าว 17</name>
+				
+				<LookAt>
+					<longitude>100.5720562727533</longitude>
+					<latitude>13.80704371335594</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5720562727533,13.80704371335594,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 26</name>
+				
+				<LookAt>
+					<longitude>100.573312901356</longitude>
+					<latitude>13.8063524559888</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.573312901356,13.8063524559888,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง แยกลาดพร้าว-รัชดา</name>
+				
+				<LookAt>
+					<longitude>100.575389615046</longitude>
+					<latitude>13.8051951422944</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.575389615046,13.8051951422944,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง แยกรัชดา</name>
+				
+				
+				<LookAt>
+					<longitude>100.576572400348</longitude>
+					<latitude>13.8045051612179</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.576572400348,13.8045051612179,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 38</name>
+				
+				
+				<LookAt>
+					<longitude>100.577726208005</longitude>
+					<latitude>13.8038484244154</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.577726208005,13.8038484244154,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 40</name>
+				
+				
+				<LookAt>
+					<longitude>100.579258206853</longitude>
+					<latitude>13.8030327812598</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.579258206853,13.8030327812598,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 35</name>
+				
+				
+				<LookAt>
+					<longitude>100.580461692067</longitude>
+					<latitude>13.8023401201985</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.580461692067,13.8023401201985,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยภาวนา</name>
+				
+				
+				<LookAt>
+					<longitude>100.583533823742</longitude>
+					<latitude>13.8006290140231</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.583533823742,13.8006290140231,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าว 41/1</name>
+				
+				
+				<LookAt>
+					<longitude>100.5850535078258</longitude>
+					<latitude>13.79976594243095</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5850535078258,13.79976594243095,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงเรียนพิบูลย์อุปถัมภ์</name>
+				
+				
+				<LookAt>
+					<longitude>100.588036032534</longitude>
+					<latitude>13.798116177763</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.588036032534,13.798116177763,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าวสะพาน 2</name>
+				
+				
+				<LookAt>
+					<longitude>100.590792828331</longitude>
+					<latitude>13.7965622464778</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.590792828331,13.7965622464778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สถานีตำรวจโชคชัย</name>
+				
+				
+				<LookAt>
+					<longitude>100.592527511324</longitude>
+					<latitude>13.795619146718</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.592527511324,13.795619146718,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โชคชัย 4</name>
+				
+				
+				<LookAt>
+					<longitude>100.593434748092</longitude>
+					<latitude>13.795091444154</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.593434748092,13.795091444154,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงเรียนถนอมพิศ</name>
+				
+				
+				<LookAt>
+					<longitude>100.595280106999</longitude>
+					<latitude>13.7940893555664</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.595280106999,13.7940893555664,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง กรมแผนที่ทหาร</name>
+				
+				
+				<LookAt>
+					<longitude>100.597397881737</longitude>
+					<latitude>13.792890066362</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.597397881737,13.792890066362,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ศึกษาภัณฑ์ลาดพร้าว</name>
+				
+				
+				<LookAt>
+					<longitude>100.600341281397</longitude>
+					<latitude>13.7912600798437</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.600341281397,13.7912600798437,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ปณ. ลาดพร้าว</name>
+				
+				
+				<LookAt>
+					<longitude>100.60289727535</longitude>
+					<latitude>13.7898112138445</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.60289727535,13.7898112138445,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 80</name>
+				
+				
+				<LookAt>
+					<longitude>100.605360910212</longitude>
+					<latitude>13.7884316395693</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.605360910212,13.7884316395693,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง แกรนด์วิลเลจ</name>
+				
+				
+				<LookAt>
+					<longitude>100.607585305996</longitude>
+					<latitude>13.7871844959399</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.607585305996,13.7871844959399,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าว 79</name>
+				
+				
+				<LookAt>
+					<longitude>100.6103273924512</longitude>
+					<latitude>13.7856768874092</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6103273924512,13.7856768874092,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ห้างอิมพิเรียลลาดพร้าว</name>
+				
+				
+				<LookAt>
+					<longitude>100.612253032219</longitude>
+					<latitude>13.7845741668596</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.612253032219,13.7845741668596,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สำนักงานเขตวังทองหลาง</name>
+				
+				
+				<LookAt>
+					<longitude>100.6151986802987</longitude>
+					<latitude>13.7829501088129</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6151986802987,13.7829501088129,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงเรียนบางกอกศึกษา</name>
+				
+				
+				<LookAt>
+					<longitude>100.618260291972</longitude>
+					<latitude>13.7812165242444</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.618260291972,13.7812165242444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยลาดพร้าว 93</name>
+				
+				
+				<LookAt>
+					<longitude>100.6204223939071</longitude>
+					<latitude>13.7799960665947</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6204223939071,13.7799960665947,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ฟู้ดแลนด์</name>
+				
+				
+				<LookAt>
+					<longitude>100.6225746376277</longitude>
+					<latitude>13.77883286787011</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6225746376277,13.77883286787011,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงพยาบาลลาดพร้าว</name>
+				
+				
+				<LookAt>
+					<longitude>100.623821256948</longitude>
+					<latitude>13.7781341577286</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.623821256948,13.7781341577286,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงเรียนภาษาอังกฤษสันติ</name>
+				
+				
+				<LookAt>
+					<longitude>100.6252487736733</longitude>
+					<latitude>13.77738932772008</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6252487736733,13.77738932772008,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ร้านอาหารทิพวรรณ</name>
+				
+				
+				<LookAt>
+					<longitude>100.627285671788</longitude>
+					<latitude>13.7761832400984</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.627285671788,13.7761832400984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามโรงเรียนสอนคอมพิวเตอร์แสควร์-ลาดพร้าว</name>
+				
+				
+				<LookAt>
+					<longitude>100.6298193351996</longitude>
+					<latitude>13.77477863638949</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6298193351996,13.77477863638949,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงเรียนเตรียมศึกษาบางกะปิ</name>
+				
+				
+				<LookAt>
+					<longitude>100.6319163527422</longitude>
+					<latitude>13.77361648234882</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6319163527422,13.77361648234882,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ลาดพร้าว 107</name>
+				
+				
+				<LookAt>
+					<longitude>100.634221410162</longitude>
+					<latitude>13.7722831576998</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.634221410162,13.7722831576998,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง เวชทานี</name>
+				
+				
+				<LookAt>
+					<longitude>100.6370434256291</longitude>
+					<latitude>13.77077521411037</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6370434256291,13.77077521411037,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยลาดพร้าว 11/1</name>
+				
+				
+				<LookAt>
+					<longitude>100.6385652123315</longitude>
+					<latitude>13.76987116502303</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6385652123315,13.76987116502303,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ห้างแม็คโครบางกะปิ</name>
+				
+				
+				<LookAt>
+					<longitude>100.64028872641</longitude>
+					<latitude>13.7689417651431</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.64028872641,13.7689417651431,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตลาดบางกะปิ</name>
+				
+				<LookAt>
+					<longitude>100.643087318508</longitude>
+					<latitude>13.7673809957543</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.643087318508,13.7673809957543,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตลาดบางกะปิ</name>
+				
+				
+				<LookAt>
+					<longitude>100.64675572092</longitude>
+					<latitude>13.7662949217189</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.64675572092,13.7662949217189,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สน.ลาดพร้าว</name>
+				
+				
+				<LookAt>
+					<longitude>100.647645725452</longitude>
+					<latitude>13.7671874341336</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.647645725452,13.7671874341336,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง หมวดการทางบางกะปิ</name>
+				
+				
+				<LookAt>
+					<longitude>100.647381721959</longitude>
+					<latitude>13.7690420719685</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.647381721959,13.7690420719685,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงเรียนบ้านบางกะปิ</name>
+				
+				
+				<LookAt>
+					<longitude>100.647100141493</longitude>
+					<latitude>13.7719172136196</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.647100141493,13.7719172136196,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามการเคหะแห่งชาติ</name>
+				
+				
+				<LookAt>
+					<longitude>100.645670112327</longitude>
+					<latitude>13.774347991356</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.645670112327,13.774347991356,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงเรียนบ้านบางกะปิ</name>
+				
+				
+				<LookAt>
+					<longitude>100.645140930338</longitude>
+					<latitude>13.7753335498933</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.645140930338,13.7753335498933,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ท่ารถสาย 520 แฮปปี้แลนด์</name>
+				
+				
+				<LookAt>
+					<longitude>100.644875831868</longitude>
+					<latitude>13.7761350994309</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.644875831868,13.7761350994309,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สนามกีฬาคลองจั่น</name>
+				
+				
+				<LookAt>
+					<longitude>100.644356150914</longitude>
+					<latitude>13.7781966412429</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.644356150914,13.7781966412429,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง แฮปปี้แลนด์</name>
+				
+				
+				<LookAt>
+					<longitude>100.645308363528</longitude>
+					<latitude>13.781021977704</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.645308363528,13.781021977704,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง การเคหะคลองจั่น</name>
+				
+				
+				<LookAt>
+					<longitude>100.645833906157</longitude>
+					<latitude>13.7817441280292</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.645833906157,13.7817441280292,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง หมู่บ้านวังทอง</name>
+				
+				
+				<LookAt>
+					<longitude>100.647136321523</longitude>
+					<latitude>13.7836595966411</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.647136321523,13.7836595966411,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ทะเลสาบ ที่ 1</name>
+				
+				
+				<LookAt>
+					<longitude>100.6486073381414</longitude>
+					<latitude>13.78306132743593</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6486073381414,13.78306132743593,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ครัวริมบึง</name>
+				
+				
+				<LookAt>
+					<longitude>100.6494047862466</longitude>
+					<latitude>13.78200381501996</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6494047862466,13.78200381501996,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ศรีบูรพา 8</name>
+				
+				
+				<LookAt>
+					<longitude>100.6502708642595</longitude>
+					<latitude>13.78087965994513</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6502708642595,13.78087965994513,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง นวมินทร์ ซอย 15</name>
+				
+				
+				<LookAt>
+					<longitude>100.6523168235308</longitude>
+					<latitude>13.77763626585751</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6523168235308,13.77763626585751,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง อนุบาลคลองจั่น</name>
+				
+				
+				<LookAt>
+					<longitude>100.6534697504966</longitude>
+					<latitude>13.7746948423852</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6534697504966,13.7746948423852,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง แยกนิด้า</name>
+				
+				
+				<LookAt>
+					<longitude>100.6539729808526</longitude>
+					<latitude>13.77354654002042</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6539729808526,13.77354654002042,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยรอดอนันต์ 4</name>
+				
+				
+				<LookAt>
+					<longitude>100.658716179471</longitude>
+					<latitude>13.7753800949377</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.658716179471,13.7753800949377,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยตาเซียน</name>
+				
+				
+				<LookAt>
+					<longitude>100.661578083083</longitude>
+					<latitude>13.7769152791872</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.661578083083,13.7769152791872,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง โรงเรียนชินวร</name>
+				
+				
+				<LookAt>
+					<longitude>100.665329422534</longitude>
+					<latitude>13.77866825626024</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.665329422534,13.77866825626024,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง คลองบางเตย</name>
+				
+				
+				<LookAt>
+					<longitude>100.6679151065979</longitude>
+					<latitude>13.77998599655744</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6679151065979,13.77998599655744,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ซอยสุขสม</name>
+				
+				
+				<LookAt>
+					<longitude>100.6694201561576</longitude>
+					<latitude>13.78083832530544</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6694201561576,13.78083832530544,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สุเหร่าคลองกุ่ม</name>
+				
+				
+				<LookAt>
+					<longitude>100.6724983708143</longitude>
+					<latitude>13.78286999599983</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6724983708143,13.78286999599983,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง หมู่บ้านเปี่ยมสุข</name>
+				
+				
+				<LookAt>
+					<longitude>100.674592071288</longitude>
+					<latitude>13.78497335985668</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.674592071288,13.78497335985668,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง นวธานี</name>
+				
+				
+				<LookAt>
+					<longitude>100.6775478860705</longitude>
+					<latitude>13.7883624822231</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6775478860705,13.7883624822231,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง บ.พานาโซนิค</name>
+				
+				
+				<LookAt>
+					<longitude>100.680778075529</longitude>
+					<latitude>13.7911449968061</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.680778075529,13.7911449968061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามเรือนทองนิเวศน์</name>
+				
+				
+				<LookAt>
+					<longitude>100.684783780263</longitude>
+					<latitude>13.7928024442205</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.684783780263,13.7928024442205,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สุเหร่าแดง</name>
+				
+				
+				<LookAt>
+					<longitude>100.6872685448839</longitude>
+					<latitude>13.7937622759149</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6872685448839,13.7937622759149,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามศูนย์โตโยต้า</name>
+				
+				
+				<LookAt>
+					<longitude>100.6895063419987</longitude>
+					<latitude>13.79474178566967</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6895063419987,13.79474178566967,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ปากทางสวนสยาม</name>
+				
+				
+				<LookAt>
+					<longitude>100.6918993162257</longitude>
+					<latitude>13.79572325949842</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6918993162257,13.79572325949842,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง หมู่บ้านเกษรา</name>
+				
+				
+				<LookAt>
+					<longitude>100.6949230694046</longitude>
+					<latitude>13.79703483730122</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6949230694046,13.79703483730122,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามโรงเรียนทรงวิทย์</name>
+				
+				
+				<LookAt>
+					<longitude>100.6979599103696</longitude>
+					<latitude>13.79836216012599</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6979599103696,13.79836216012599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามบ.ฮอนด้าบางชัน (เสรีไทย 56)</name>
+				
+				
+				<LookAt>
+					<longitude>100.6999276621265</longitude>
+					<latitude>13.79920090183904</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6999276621265,13.79920090183904,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง บ.ยำยำ (เสรีไทย 58)</name>
+				
+				
+				<LookAt>
+					<longitude>100.7053647695469</longitude>
+					<latitude>13.80152099534837</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7053647695469,13.80152099534837,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามบ.สหยูเนี่ยน</name>
+				
+				
+				<LookAt>
+					<longitude>100.7094123568162</longitude>
+					<latitude>13.80342578319292</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7094123568162,13.80342578319292,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง อาคารอินโดไทย</name>
+				
+				
+				<LookAt>
+					<longitude>100.7151401817602</longitude>
+					<latitude>13.80839809796546</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7151401817602,13.80839809796546,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง บ.สุขภัณฑ์เซ็นเตอร์</name>
+				
+				
+				<LookAt>
+					<longitude>100.7166057798327</longitude>
+					<latitude>13.81089045018771</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7166057798327,13.81089045018771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง แยกมีนบุรี</name>
+				
+				
+				<LookAt>
+					<longitude>100.718925621671</longitude>
+					<latitude>13.8127746659253</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.718925621671,13.8127746659253,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง สวนจตุจักร2</name>
+				
+				
+				<LookAt>
+					<longitude>100.7258606731827</longitude>
+					<latitude>13.81268610280956</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7258606731827,13.81268610280956,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง ตรงข้ามธนาคารกรุงเทพ สาขามีนบุรี</name>
+				
+				
+				<LookAt>
+					<longitude>100.7285501054714</longitude>
+					<latitude>13.8125797163487</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7285501054714,13.8125797163487,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ INBOUND ] ป้ายรถประจำทาง มีนบุรี</name>
+				
+				
+				<LookAt>
+					<longitude>100.731124682314</longitude>
+					<latitude>13.8133027549567</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.731124682314,13.8133027549567,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ขาเข้า 27ร</name>
+				<description>จาก อนุเสาวรีย์ชัยสมรภูมิ ไป มีนบุรี</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						100.5380834044481,13.76562048286527,0 100.5382442420667,13.765706080835,0 100.5384305168201,13.76576717526246,0 100.5385807670493,13.7658106505509,0 100.5386928904847,13.76589266626532,0 100.5388000514831,13.76599460485963,0 100.5389853849712,13.76627217651935,0 100.5409678554127,13.76990160731563,0 100.5418989838127,13.77229640715807,0 100.5430560036187,13.77557926810468,0 100.5442431514724,13.77881733101563,0 100.5465579136115,13.7851041300917,0 100.5480998406789,13.78942453812803,0 100.5503831041593,13.79585151598118,0 100.5514471484152,13.79866622734311,0 100.5523599107792,13.80025353906154,0 100.5551386000433,13.80494777019065,0 100.5587021965684,13.81128133046855,0 100.5601055350256,13.81356923057989,0 100.5605133905241,13.81430095236418,0 100.5606211609963,13.81454860590185,0 100.560649466225,13.81471125450635,0 100.5606409401954,13.81482869108142,0 100.560621880094,13.81495202193773,0 100.560566377257,13.81505406168014,0 100.5605048114058,13.81514760978751,0 100.5604197929673,13.81522433095056,0 100.560313459285,13.81528884633128,0 100.5601972180745,13.81533113626686,0 100.5600711754627,13.81533687417317,0 100.5599271766829,13.81531914253296,0 100.5597769154567,13.81523732347811,0 100.5596913231964,13.8151423789008,0 100.5596097151684,13.81500351354304,0 100.5595598855103,13.81482357665983,0 100.5595636146795,13.81462909164434,0 100.5596054902624,13.8144776402716,0 100.559672249571,13.81428989624602,0 100.5597895038579,13.81406941550316,0 100.5599042385472,13.81390494621549,0 100.5600942632957,13.81370782429172,0 100.5603130727619,13.81353898203193,0 100.5612316824768,13.81300869542901,0 100.562891327738,13.81209413478261,0 100.5644850921478,13.81127304193342,0 100.5660196507767,13.81041626464264,0 100.5681595684654,13.80923844289748,0 100.5693184975453,13.80861329101889,0 100.5710499563825,13.80762329846449,0 100.5745938700676,13.80567472655131,0 100.5837871456416,13.80060122391913,0 100.5904318868728,13.79673707885805,0 100.5919658780561,13.79591854312435,0 100.5966569503128,13.79328669878001,0 100.6030902194146,13.78966580979897,0 100.6080230617923,13.78691503154095,0 100.6135128810308,13.78385927378837,0 100.616734470774,13.78205254162312,0 100.6210970507517,13.77960631973359,0 100.6214385607446,13.77940792638405,0 100.6252288635662,13.77726834567914,0 100.629568576324,13.77485545473517,0 100.6338240840435,13.77253579937964,0 100.637764665613,13.7702789292823,0 100.6415458597918,13.7681681766472,0 100.6448503804362,13.76630406736146,0 100.6451760239628,13.7661560605957,0 100.6454449038787,13.76612329972261,0 100.6458069070927,13.76613971037605,0 100.6478026991734,13.76645246918604,0 100.6476941394842,13.76716153106529,0 100.6476347918611,13.76754528520378,0 100.6472308098982,13.77110339223307,0 100.647142160046,13.77224217400582,0 100.6470949975273,13.77242376094654,0 100.6470496370085,13.77255653252527,0 100.646936125259,13.7727332640119,0 100.6467692787559,13.77295806780112,0 100.6462081399934,13.77370473719202,0 100.6455490651832,13.77457761415994,0 100.6453864113973,13.77478543193017,0 100.6453313523357,13.77489906913325,0 100.6452891915519,13.77503352016273,0 100.6451084365262,13.77570127345171,0 100.6447506152898,13.77696386379333,0 100.6442137068988,13.77901364867909,0 100.6442004678492,13.7791410397346,0 100.6442328247452,13.77925332910959,0 100.6442698554467,13.77936456966637,0 100.6443537934411,13.77949626975576,0 100.6469328832723,13.78327033145218,0 100.647360768565,13.78392482721036,0 100.6474583580217,13.7840527621837,0 100.6475446515681,13.78408719821826,0 100.6476704702018,13.78404868070124,0 100.647906975765,13.78381582879769,0 100.6485680761945,13.78310182804025,0 100.6496078622169,13.78178688761568,0 100.6504736646129,13.78059883854426,0 100.6515160369996,13.77896380355329,0 100.6521777649833,13.77787699823903,0 100.6528075423798,13.77665141683965,0 100.6531670172445,13.77578778151788,0 100.6534022276258,13.77496994031047,0 100.653541901295,13.7743836860778,0 100.6536510944321,13.77405287033674,0 100.6537305314023,13.77386042775366,0 100.6538593141076,13.77368307922497,0 100.6539859964738,13.77355652244504,0 100.6541444106692,13.77339166087372,0 100.6544009514212,13.77315408052759,0 100.6545022024412,13.77310023717633,0 100.6546064080088,13.77307249716712,0 100.6547370631165,13.7730709181122,0 100.6548853604178,13.77306725188163,0 100.6550624294708,13.77312782874472,0 100.6561161536335,13.7737578953389,0 100.6584907603402,13.77519424512313,0 100.6594021680585,13.7757119006326,0 100.6600650362641,13.7760506097779,0 100.6607488164334,13.77638670643053,0 100.6633182063185,13.77767059382853,0 100.6666824556713,13.77933434194251,0 100.6670959819756,13.7795304532776,0 100.6675887855955,13.77978640681295,0 100.6679610620489,13.77998558738219,0 100.6682667467774,13.78015661627918,0 100.6686261597231,13.78037562517223,0 100.6712120299015,13.78197565374429,0 100.6717147572569,13.78229381836766,0 100.6729208355406,13.78310279157232,0 100.6731149617004,13.78326482703315,0 100.6732181687919,13.78337641242413,0 100.6753617073527,13.78569518970635,0 100.6769802427145,13.78740937504214,0 100.6786441023481,13.78981518255307,0 100.6787755937966,13.78997300210443,0 100.6789304141967,13.79009547142088,0 100.6791443266176,13.7902176329505,0 100.6810183850036,13.79106073609734,0 100.6853264613461,13.79288840062134,0 100.691133802054,13.79538195276923,0 100.697426355017,13.79804520296495,0 100.7041967362754,13.80096381075664,0 100.7088624162113,13.80298384062006,0 100.7090716768077,13.80312266151374,0 100.7093182921804,13.80327953218626,0 100.7119590937899,13.80522021284237,0 100.7132243655178,13.80607464499196,0 100.7135050868001,13.80628822260875,0 100.7137923393409,13.8065722940394,0 100.7140808371914,13.80689028630688,0 100.7144356243097,13.80732910783445,0 100.7146659400839,13.80762205447233,0 100.7148720921321,13.80788962324239,0 100.7151122895678,13.80824650808258,0 100.7153385644607,13.8085871038206,0 100.7155859813575,13.80898478533732,0 100.7168630018785,13.81127814363109,0 100.7169543241529,13.81147381830878,0 100.7170671075129,13.81179957868933,0 100.7172393246193,13.81220068343026,0 100.7173377728781,13.81248204566216,0 100.7174780572218,13.81262249748597,0 100.7176470983062,13.81272450826287,0 100.7178836412323,13.8127592160171,0 100.718428219603,13.81275368299637,0 100.7216361897748,13.8126851435087,0 100.7276187871806,13.81253197153165,0 100.7295733003504,13.81247975561732,0 100.7304615640784,13.81279341227171,0 100.7313763956183,13.81328238063444,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>OUTBOUND</name>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง มีนบุรี</name>
+				
+				<LookAt>
+					<longitude>100.73133896137</longitude>
+					<latitude>13.8130488245766</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.73133896137,13.8130488245766,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ธนาคารกรุงเทพ สาขามีนบุรี</name>
+				
+				<LookAt>
+					<longitude>100.7282511</longitude>
+					<latitude>13.8123619</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7282511,13.8123619,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สวนจตุจักร 2</name>
+				
+				<LookAt>
+					<longitude>100.725880142925</longitude>
+					<latitude>13.8123707626174</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.725880142925,13.8123707626174,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงแรมชนา</name>
+				
+				<LookAt>
+					<longitude>100.723428</longitude>
+					<latitude>13.812491</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.723428,13.812491,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง แยกมีนบุรี</name>
+				
+				<LookAt>
+					<longitude>100.72008315908</longitude>
+					<latitude>13.812460476473</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.72008315908,13.812460476473,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง แยกมีนบุรี</name>
+				
+				<LookAt>
+					<longitude>100.7191050791911</longitude>
+					<latitude>13.81257118668744</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7191050791911,13.81257118668744,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงพยาบาลเสรีรักษ์</name>
+				
+				<LookAt>
+					<longitude>100.7168860120348</longitude>
+					<latitude>13.81094630603669</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7168860120348,13.81094630603669,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง หมู่บ้านพนาสน</name>
+				
+				<LookAt>
+					<longitude>100.7153827883869</longitude>
+					<latitude>13.80832919321666</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7153827883869,13.80832919321666,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง บ.สหยูเนี่ยน</name>
+				
+				<LookAt>
+					<longitude>100.7095855185043</longitude>
+					<latitude>13.80318640506431</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7095855185043,13.80318640506431,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามบ.ยำยำ (เสรีไทย 58)</name>
+				
+				<LookAt>
+					<longitude>100.7059361611013</longitude>
+					<latitude>13.80143041215158</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.7059361611013,13.80143041215158,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง บ.ฮอนด้าบางชัน (เสรีไทย 56)</name>
+				
+				<LookAt>
+					<longitude>100.6999859051719</longitude>
+					<latitude>13.79896972259574</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6999859051719,13.79896972259574,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงเรียนทรงวิทย์</name>
+				
+				<LookAt>
+					<longitude>100.6982285114978</longitude>
+					<latitude>13.79817270660537</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6982285114978,13.79817270660537,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามหมู่บ้านเกษรา</name>
+				
+				<LookAt>
+					<longitude>100.6950436584577</longitude>
+					<latitude>13.79682301263521</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6950436584577,13.79682301263521,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามปากทางสวนสยาม</name>
+				
+				<LookAt>
+					<longitude>100.6919885974723</longitude>
+					<latitude>13.79555802272556</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6919885974723,13.79555802272556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ศูนย์โตโยต้า</name>
+				
+				<LookAt>
+					<longitude>100.6896805622699</longitude>
+					<latitude>13.7945216549298</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6896805622699,13.7945216549298,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามสุเหร่าแดง</name>
+				
+				<LookAt>
+					<longitude>100.6873921033818</longitude>
+					<latitude>13.79357632206865</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6873921033818,13.79357632206865,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง เรือนทองนิเวศน์</name>
+				
+				<LookAt>
+					<longitude>100.684951408931</longitude>
+					<latitude>13.7925111565542</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.684951408931,13.7925111565542,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามบ.พานาโซนิค</name>
+				
+				<LookAt>
+					<longitude>100.680979694305</longitude>
+					<latitude>13.7908896512709</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.680979694305,13.7908896512709,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามนวธานี</name>
+				
+				<LookAt>
+					<longitude>100.678014320058</longitude>
+					<latitude>13.7885131107052</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.678014320058,13.7885131107052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง หมู่บ้านเปี่ยมสุข</name>
+				
+				<LookAt>
+					<longitude>100.6747514487896</longitude>
+					<latitude>13.78479331205093</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6747514487896,13.78479331205093,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สุเหร่าคลองกุ่ม</name>
+				
+				<LookAt>
+					<longitude>100.67263208945</longitude>
+					<latitude>13.78269207451272</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.67263208945,13.78269207451272,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยสุขสม</name>
+				
+				<LookAt>
+					<longitude>100.6695322395909</longitude>
+					<latitude>13.78072008622137</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6695322395909,13.78072008622137,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง คลองบางเตย</name>
+				
+				<LookAt>
+					<longitude>100.668079274702</longitude>
+					<latitude>13.77984084936494</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.668079274702,13.77984084936494,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงเรียนชินวร</name>
+				
+				<LookAt>
+					<longitude>100.6655012729597</longitude>
+					<latitude>13.77850991232322</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6655012729597,13.77850991232322,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยตาเซียน</name>
+				
+				<LookAt>
+					<longitude>100.661644843662</longitude>
+					<latitude>13.7767428779086</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.661644843662,13.7767428779086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยรอดอนันต์ 4</name>
+				
+				<LookAt>
+					<longitude>100.658837007709</longitude>
+					<latitude>13.7751987953325</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.658837007709,13.7751987953325,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง แยกนิด้า</name>
+				
+				<LookAt>
+					<longitude>100.6538505001815</longitude>
+					<latitude>13.7734502578186</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6538505001815,13.7734502578186,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง อนุบาลคลองจั่น</name>
+				
+				<LookAt>
+					<longitude>100.6533519334598</longitude>
+					<latitude>13.77467299275607</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6533519334598,13.77467299275607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง นวมินทร์ ซอย 15</name>
+				
+				<LookAt>
+					<longitude>100.6521677705725</longitude>
+					<latitude>13.77756333172445</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6521677705725,13.77756333172445,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ศรีบูรพา 8</name>
+				
+				<LookAt>
+					<longitude>100.6501166782286</longitude>
+					<latitude>13.78079278397605</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6501166782286,13.78079278397605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ครัวริมบึง</name>
+				
+				<LookAt>
+					<longitude>100.6493009021878</longitude>
+					<latitude>13.78191679405315</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6493009021878,13.78191679405315,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ทะเลสาบ ที่ 1</name>
+				
+				<LookAt>
+					<longitude>100.6485267472099</longitude>
+					<latitude>13.78298853843046</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6485267472099,13.78298853843046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง หมู่บ้านวังทอง</name>
+				
+				<LookAt>
+					<longitude>100.64731196532</longitude>
+					<latitude>13.7835443540176</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.64731196532,13.7835443540176,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง การเคหะคลองจั่น</name>
+				
+				<LookAt>
+					<longitude>100.646066552723</longitude>
+					<latitude>13.7816591873261</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.646066552723,13.7816591873261,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง แฮปปี้แลนด์</name>
+				
+				<LookAt>
+					<longitude>100.645547052541</longitude>
+					<latitude>13.7808814607331</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.645547052541,13.7808814607331,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สนามกีฬาคลองจั่น</name>
+				
+				<LookAt>
+					<longitude>100.64456309432</longitude>
+					<latitude>13.7782204266539</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.64456309432,13.7782204266539,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ท่ารถสาย 520 แฮปปี้แลนด์</name>
+				
+				<LookAt>
+					<longitude>100.645074692786</longitude>
+					<latitude>13.7762790258258</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.645074692786,13.7762790258258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงเรียนบ้านบางกะปิ</name>
+				
+				<LookAt>
+					<longitude>100.645312086969</longitude>
+					<latitude>13.7753552498289</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.645312086969,13.7753552498289,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง การเคหะแห่งชาติ</name>
+				
+				<LookAt>
+					<longitude>100.645720893349</longitude>
+					<latitude>13.774569061948</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.645720893349,13.774569061948,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง การเคหะแห่งชาติ</name>
+				
+				<LookAt>
+					<longitude>100.64620235</longitude>
+					<latitude>13.77384818</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.64620235,13.77384818,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามโรงเรียนบ้านบางกะปิ</name>
+				
+				<LookAt>
+					<longitude>100.64731445143</longitude>
+					<latitude>13.7719724815186</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.64731445143,13.7719724815186,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง หมวดการทางบางกะปิ</name>
+				
+				<LookAt>
+					<longitude>100.647567551138</longitude>
+					<latitude>13.76918048913</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.647567551138,13.76918048913,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้าม สน.ลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.647870920678</longitude>
+					<latitude>13.7674060829067</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.647870920678,13.7674060829067,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตลาดบางกะปิ</name>
+				
+				<LookAt>
+					<longitude>100.646799327755</longitude>
+					<latitude>13.7660899320184</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.646799327755,13.7660899320184,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ห้างเดอะมอลล์บางกะปิ</name>
+				
+				<LookAt>
+					<longitude>100.6420778</longitude>
+					<latitude>13.76761944</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6420778,13.76761944,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ห้างแม็คโครบางกะปิ</name>
+				
+				<LookAt>
+					<longitude>100.640147188222</longitude>
+					<latitude>13.7686439878568</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.640147188222,13.7686439878568,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตะวันนา2</name>
+				
+				<LookAt>
+					<longitude>100.6386177678926</longitude>
+					<latitude>13.76961410995071</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6386177678926,13.76961410995071,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว 136</name>
+				
+				<LookAt>
+					<longitude>100.6368439386941</longitude>
+					<latitude>13.77053198414048</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6368439386941,13.77053198414048,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามลาดพร้าว 107</name>
+				
+				<LookAt>
+					<longitude>100.63473255606</longitude>
+					<latitude>13.77178968614</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.63473255606,13.77178968614,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว 130/1</name>
+				
+				<LookAt>
+					<longitude>100.6323028594322</longitude>
+					<latitude>13.7732114166117</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6323028594322,13.7732114166117,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงเรียนสอนคอมพิวเตอร์แสควร์-ลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.6297206427276</longitude>
+					<latitude>13.77464703671553</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6297206427276,13.77464703671553,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ร้านอาหารทิพวรรณ</name>
+				
+				<LookAt>
+					<longitude>100.627182082871</longitude>
+					<latitude>13.7760479405275</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.627182082871,13.7760479405275,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยลาดพร้าว 122</name>
+				
+				<LookAt>
+					<longitude>100.6249130974004</longitude>
+					<latitude>13.7773015618235</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6249130974004,13.7773015618235,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงพยาบาลลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.62374</longitude>
+					<latitude>13.77797</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.62374,13.77797,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามฟู้ดแลนด์</name>
+				
+				<LookAt>
+					<longitude>100.6225614847331</longitude>
+					<latitude>13.77861546744247</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6225614847331,13.77861546744247,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยลาดพร้าว 114</name>
+				
+				<LookAt>
+					<longitude>100.6200119420173</longitude>
+					<latitude>13.78002699693741</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6200119420173,13.78002699693741,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงเรียนบางกอกศึกษา</name>
+				
+				<LookAt>
+					<longitude>100.6182</longitude>
+					<latitude>13.78106</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6182,13.78106,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามสำนักงานเขตวังทองหลาง</name>
+				
+				<LookAt>
+					<longitude>100.6152687533521</longitude>
+					<latitude>13.78268487872</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6152687533521,13.78268487872,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ห้างอิมพิเรียลลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.612169156702</longitude>
+					<latitude>13.7844112797632</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.612169156702,13.7844112797632,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว 92</name>
+				
+				<LookAt>
+					<longitude>100.6104637646199</longitude>
+					<latitude>13.7853292721874</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.6104637646199,13.7853292721874,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง แกรนด์วิลเลจ</name>
+				
+				<LookAt>
+					<longitude>100.607484492847</longitude>
+					<latitude>13.7870131833494</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.607484492847,13.7870131833494,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 80</name>
+				
+				<LookAt>
+					<longitude>100.605253683699</longitude>
+					<latitude>13.7882530830567</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.605253683699,13.7882530830567,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ปณ. ลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.60280783327</longitude>
+					<latitude>13.7896293012502</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.60280783327,13.7896293012502,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 64</name>
+				
+				<LookAt>
+					<longitude>100.600101766312</longitude>
+					<latitude>13.7911430945965</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.600101766312,13.7911430945965,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง กรมแผนที่ทหาร</name>
+				
+				<LookAt>
+					<longitude>100.59727026987</longitude>
+					<latitude>13.7927623371066</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.59727026987,13.7927623371066,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงเรียนถนอมพิศ</name>
+				
+				<LookAt>
+					<longitude>100.595179263883</longitude>
+					<latitude>13.7938935026117</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.595179263883,13.7938935026117,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โชคชัย 4</name>
+				
+				<LookAt>
+					<longitude>100.593348984968</longitude>
+					<latitude>13.794943049612</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.593348984968,13.794943049612,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สถานีตำรวจโชคชัย</name>
+				
+				<LookAt>
+					<longitude>100.592373727474</longitude>
+					<latitude>13.7954545989498</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.592373727474,13.7954545989498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าวสะพาน 2</name>
+				
+				<LookAt>
+					<longitude>100.590681407187</longitude>
+					<latitude>13.7963905343675</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.590681407187,13.7963905343675,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงเรียนพิบูลย์อุปถัมภ์</name>
+				
+				<LookAt>
+					<longitude>100.587947145944</longitude>
+					<latitude>13.7979339822134</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.587947145944,13.7979339822134,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามซอยลาดพร้าว 43</name>
+				
+				<LookAt>
+					<longitude>100.5854944639012</longitude>
+					<latitude>13.79932891665627</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5854944639012,13.79932891665627,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยภาวนา</name>
+				
+				<LookAt>
+					<longitude>100.583379181452</longitude>
+					<latitude>13.800478856627</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.583379181452,13.800478856627,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 42</name>
+				
+				<LookAt>
+					<longitude>100.580391320572</longitude>
+					<latitude>13.8021600289013</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.580391320572,13.8021600289013,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 40</name>
+				
+				<LookAt>
+					<longitude>100.579075512122</longitude>
+					<latitude>13.8028911727689</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.579075512122,13.8028911727689,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 38</name>
+				
+				<LookAt>
+					<longitude>100.577630601262</longitude>
+					<latitude>13.8037120096845</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.577630601262,13.8037120096845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง แยกรัชดา</name>
+				
+				<LookAt>
+					<longitude>100.576499</longitude>
+					<latitude>13.804369</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.576499,13.804369,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง แยกลาดพร้าว-รัชดา</name>
+				
+				<LookAt>
+					<longitude>100.575324432283</longitude>
+					<latitude>13.8050397195468</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.575324432283,13.8050397195468,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.573971217145</longitude>
+					<latitude>13.8056577159664</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.573971217145,13.8056577159664,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยลาดพร้าว 22</name>
+				
+				<LookAt>
+					<longitude>100.571738480205</longitude>
+					<latitude>13.80702428030575</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.571738480205,13.80702428030575,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ลาดพร้าว ซอย 20</name>
+				
+				<LookAt>
+					<longitude>100.570602</longitude>
+					<latitude>13.807606</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.570602,13.807606,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ห้างคาร์ฟูร์ลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.567542010864</longitude>
+					<latitude>13.8093346322847</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.567542010864,13.8093346322847,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ธนาคารไทยพาณิชย์ลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.566195795084</longitude>
+					<latitude>13.8101048795554</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.566195795084,13.8101048795554,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงแรมลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.5645461453143</longitude>
+					<latitude>13.81107369717704</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5645461453143,13.81107369717704,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง แยกลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.562755691406</longitude>
+					<latitude>13.812038784785</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.562755691406,13.812038784785,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ปากทางลาดพร้าว</name>
+				
+				<LookAt>
+					<longitude>100.560901</longitude>
+					<latitude>13.813062</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.560901,13.813062,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ธนาคารทหารไทย สนญ</name>
+				
+				<LookAt>
+					<longitude>100.557345544676</longitude>
+					<latitude>13.8084810113387</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.557345544676,13.8084810113387,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง จตุจักร</name>
+				
+				<LookAt>
+					<longitude>100.554602743225</longitude>
+					<latitude>13.8037420802035</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.554602743225,13.8037420802035,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สถานีรถไฟฟ้า BTS หมอชิต</name>
+				
+				<LookAt>
+					<longitude>100.553861683658</longitude>
+					<latitude>13.8025717710927</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.553861683658,13.8025717710927,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สวนจตุจักร</name>
+				
+				<LookAt>
+					<longitude>100.552410751681</longitude>
+					<latitude>13.8000405467412</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.552410751681,13.8000405467412,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง วัดไผ่ตัน</name>
+				
+				<LookAt>
+					<longitude>100.550244072323</longitude>
+					<latitude>13.7951511291942</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.550244072323,13.7951511291942,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สถานีรถไฟฟ้า BTS สะพานควาย</name>
+				
+				<LookAt>
+					<longitude>100.549784705116</longitude>
+					<latitude>13.7938728458126</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.549784705116,13.7938728458126,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงพยาบาลเปาโล</name>
+				
+				<LookAt>
+					<longitude>100.54930883786</longitude>
+					<latitude>13.7925235261502</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.54930883786,13.7925235261502,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง บิ๊กซีสะพานควาย</name>
+				
+				<LookAt>
+					<longitude>100.548797638475</longitude>
+					<latitude>13.791125303086</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.548797638475,13.791125303086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตลาดสะพานควาย</name>
+				
+				<LookAt>
+					<longitude>100.548398636559</longitude>
+					<latitude>13.7899894410333</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.548398636559,13.7899894410333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สน. บางซื่อ</name>
+				
+				<LookAt>
+					<longitude>100.547626460155</longitude>
+					<latitude>13.7878261353713</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.547626460155,13.7878261353713,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตรงข้ามเอ.ไอ.เอส.</name>
+				
+				<LookAt>
+					<longitude>100.5472505</longitude>
+					<latitude>13.78643295</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5472505,13.78643295,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยสายลม</name>
+				
+				<LookAt>
+					<longitude>100.546028461248</longitude>
+					<latitude>13.7835003865488</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.546028461248,13.7835003865488,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ตึกไอบีเอ็ม</name>
+				
+				<LookAt>
+					<longitude>100.545217056596</longitude>
+					<latitude>13.7812365561888</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.545217056596,13.7812365561888,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สถานีรถไฟฟ้า BTS อารีย์</name>
+				
+				<LookAt>
+					<longitude>100.5447065482377</longitude>
+					<latitude>13.77950726124485</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.5447065482377,13.77950726124485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยราชครู</name>
+				
+				<LookAt>
+					<longitude>100.543639880376</longitude>
+					<latitude>13.776711532996</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.543639880376,13.776711532996,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ซอยอารีย์</name>
+				
+				<LookAt>
+					<longitude>100.542746220239</longitude>
+					<latitude>13.7742571439176</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.542746220239,13.7742571439176,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สถานีรถไฟฟ้า BTS สนามเป้า</name>
+				
+				<LookAt>
+					<longitude>100.54208847998</longitude>
+					<latitude>13.772537863379</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.54208847998,13.772537863379,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง ช่อง 5</name>
+				
+				<LookAt>
+					<longitude>100.541490450807</longitude>
+					<latitude>13.7708742247738</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.541490450807,13.7708742247738,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง โรงพยาบาลพญาไท 2</name>
+				
+				<LookAt>
+					<longitude>100.541158607073</longitude>
+					<latitude>13.7700247019847</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.541158607073,13.7700247019847,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง กรมทหารม้าที่ 3</name>
+				
+				<LookAt>
+					<longitude>100.540427526543</longitude>
+					<latitude>13.7685721532758</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.540427526543,13.7685721532758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง สนามเป้า</name>
+				
+				<LookAt>
+					<longitude>100.539736166478</longitude>
+					<latitude>13.7673621137858</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.539736166478,13.7673621137858,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[ OUTBOUND ] ป้ายรถประจำทาง อนุสาวรีย์ชัยสมรภูมิ</name>
+				
+				<LookAt>
+					<longitude>100.539062861669</longitude>
+					<latitude>13.7650876757191</latitude>
+					<altitude>0</altitude>
+					<heading>0.006033119647067864</heading>
+					<tilt>0</tilt>
+					<range>200</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>100.539062861669,13.7650876757191,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ขาออก 27ร</name>
+				<description>จาก มีนบุรี ไป อนุเสาวรีย์ชัยสมรภูมิ</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						100.5389172679426,13.76512365967208,0 100.5388890588483,13.76525066766802,0 100.5388728328472,13.76538996030085,0 100.5388440516496,13.76554054686381,0 100.5388290167616,13.76563955297648,0 100.5388410508516,13.76571991094465,0 100.5388680625753,13.76584697554222,0 100.5390977358014,13.76622147703582,0 100.5395027727849,13.76694201295742,0 100.5410522184673,13.76986069176428,0 100.5412448533619,13.77022703810092,0 100.5417143445643,13.77140101777497,0 100.542097455923,13.77239571221311,0 100.5428241577372,13.77445033375841,0 100.5433707670322,13.77596694124743,0 100.5443444792479,13.77870973282002,0 100.5450401021912,13.78063284597278,0 100.545896904506,13.78302394201117,0 100.5466493976674,13.78507958232157,0 100.5482152791844,13.78936611286514,0 100.5505286671151,13.79574947951053,0 100.5512789539179,13.79782589569217,0 100.5515715810093,13.79859812808463,0 100.5526503365251,13.80051961867391,0 100.5541391361288,13.80288013273515,0 100.5552891682815,13.80487121674495,0 100.5571698867021,13.80817030295503,0 100.5588699137518,13.81117222871074,0 100.5589735503358,13.81129758240233,0 100.5591164249217,13.81137499036382,0 100.5592849528992,13.81143482368322,0 100.5594354676575,13.81145148161065,0 100.5595914103578,13.811492693015,0 100.5596639746233,13.81158653214992,0 100.5596919110708,13.81170349129827,0 100.5596645096436,13.81200227691054,0 100.5596618208786,13.8123139906978,0 100.5596746505523,13.81252215421938,0 100.5597566489874,13.81275104977495,0 100.5599315909444,13.81298805269413,0 100.5601024745228,13.81320657631488,0 100.5602409860066,13.81333905272932,0 100.560365806935,13.81338539219511,0 100.5768337304839,13.80420426425402,0 100.5786090206057,13.80322186266297,0 100.583942043295,13.80024438377946,0 100.5902953332551,13.79667239345509,0 100.5919408502133,13.79576861306594,0 100.5968425855407,13.79302964096453,0 100.6008589727705,13.79075776823704,0 100.6036918285796,13.78919216998621,0 100.6080048616839,13.78680049492757,0 100.6136572706021,13.78367092228818,0 100.6196573229499,13.78028465386909,0 100.6236256843529,13.77808454940339,0 100.6284177385008,13.7753533172309,0 100.6321743372317,13.77328223051101,0 100.633835030579,13.77235869327038,0 100.63640924643,13.77091965529538,0 100.638509514221,13.76974200334385,0 100.6416219517746,13.76800499659325,0 100.6446134538256,13.76633962281358,0 100.6448420863548,13.76622068891159,0 100.6450722874321,13.76609969810581,0 100.6452418428502,13.76603787993332,0 100.6454060134252,13.76602109172941,0 100.6456231486651,13.76603843756744,0 100.6458630997882,13.76606478144429,0 100.6461054074327,13.76609338471422,0 100.6463701116117,13.76611962541067,0 100.6467240884398,13.76615567230501,0 100.6471033554779,13.76621447118614,0 100.647514066559,13.76626300033811,0 100.6477315476442,13.7663070792546,0 100.6478924749616,13.76635773723301,0 100.6479531253652,13.76644680522983,0 100.6479712538612,13.76658269581859,0 100.6479397989459,13.76676728732726,0 100.6478863515894,13.76709652851661,0 100.6478510693329,13.76736476547356,0 100.6476679434125,13.76854925633277,0 100.6474926406117,13.76992461482111,0 100.6473908220089,13.77114098282834,0 100.64735906623,13.77150773160932,0 100.6473165001083,13.77197489488624,0 100.6472887438624,13.77220833806883,0 100.647243547832,13.77243006982051,0 100.6471756320165,13.77259608951685,0 100.6470289382113,13.7728540315031,0 100.6467013231332,13.77331914340663,0 100.6457144449697,13.77460505906323,0 100.6456286530989,13.77471742021709,0 100.6455049506668,13.77484784908002,0 100.6454215996723,13.77497158694738,0 100.6453776675095,13.77511971553152,0 100.6453242246608,13.775322539136,0 100.6452258176372,13.77576610404279,0 100.6448651300296,13.77697705958576,0 100.644316030785,13.77897850172577,0 100.6443063142554,13.77910770098737,0 100.644334741832,13.7792078552483,0 100.6443852278282,13.77933697578718,0 100.6452883194859,13.78066191200096,0 100.6469967654856,13.78322039324703,0 100.6474531936567,13.78390415704615,0 100.6475143727696,13.78395997958576,0 100.647582987658,13.78396856594745,0 100.6476760615374,13.78393300727032,0 100.648511231058,13.78304372594626,0 100.6495728019986,13.78171341878199,0 100.6504032344012,13.78055570291965,0 100.6520924916089,13.77792384100275,0 100.652482734891,13.77718507464695,0 100.6529262083161,13.7761544623411,0 100.6531763258621,13.77554281118685,0 100.6534146816067,13.7746396735985,0 100.6535787318927,13.77405810851061,0 100.6536268253747,13.77389833684739,0 100.6536754786025,13.77378508279751,0 100.653768006196,13.77365593985419,0 100.6539941383395,13.77338872507247,0 100.6541699820725,13.77322639649997,0 100.6543501167389,13.77302348055933,0 100.6545085465339,13.77282860932464,0 100.6545925310731,13.77278560141296,0 100.6546940610855,13.77277524187867,0 100.6547925713748,13.77279037133232,0 100.6559685847141,13.7735269262755,0 100.6578203425277,13.77464426610049,0 100.6590826810034,13.77537917945123,0 100.6599491930041,13.77585075526489,0 100.6612993097594,13.77652276294397,0 100.6633867601033,13.7775701687225,0 100.6657750075215,13.77872452475588,0 100.6670845167455,13.77937823071283,0 100.6680025016337,13.77989376334815,0 100.6692989379362,13.78066861294503,0 100.671316978971,13.78189454223312,0 100.6721794636703,13.78245324097976,0 100.6724451926599,13.78261941121188,0 100.6726738981835,13.78274370318208,0 100.6728625369324,13.78286508131678,0 100.6730437911692,13.78303049549142,0 100.6733048695591,13.78328282087449,0 100.6755209999823,13.7856501337984,0 100.6768906379521,13.78709513539044,0 100.6770198950059,13.7872408414111,0 100.6771292453175,13.78741358146601,0 100.6787409237128,13.78970378542744,0 100.6788680128789,13.78986441910376,0 100.6790525445747,13.7900154382096,0 100.6792440118157,13.79012221308507,0 100.6795814647124,13.79028006092075,0 100.6811665084499,13.79093875126129,0 100.6853671666963,13.79276828192412,0 100.6906889834124,13.79505421522432,0 100.6935755598031,13.79627672590292,0 100.697753670523,13.79806246740766,0 100.7043040881865,13.80086412762937,0 100.7086762253433,13.80273456463142,0 100.7089339058274,13.80284601699771,0 100.7091340352273,13.80297504246584,0 100.7120922131039,13.80512522783961,0 100.7133057774565,13.80596538998286,0 100.7134943107208,13.80611894568461,0 100.7136496343733,13.80627422217826,0 100.7139944719851,13.8066083746254,0 100.7143890833193,13.80702581201678,0 100.7146072971964,13.80728920259061,0 100.7156494275356,13.80881390809213,0 100.7159426685868,13.80930807272865,0 100.7165470822254,13.81040786161083,0 100.71703610289,13.81128439479583,0 100.7173436457351,13.81207598139882,0 100.7174318327924,13.81225307729969,0 100.7175657950281,13.81238011221859,0 100.717707215645,13.81246305049363,0 100.7178854174106,13.81253072177162,0 100.7180605484053,13.81257978923309,0 100.7183898968739,13.81258099621351,0 100.7217027078268,13.81250981244408,0 100.7274010716012,13.81244122437983,0 100.7295250979303,13.81238754516866,0 100.7298042171651,13.81244423485186,0 100.7300397879527,13.81253625506243,0 100.7302273435196,13.81260233025354,0 100.7306377409025,13.81276717582994,0 100.7314551882961,13.81322329361909,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
